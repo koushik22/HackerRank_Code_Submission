@@ -5,4 +5,3 @@ This is a project on HackerRank automated code submission. From opening the brow
 
 Technologies Used - 1. puppeteer
                     2. Javascript
-                    3. pdfkit
